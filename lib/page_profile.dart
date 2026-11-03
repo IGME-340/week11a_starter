@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-// Already built for you. Nothing uses it until Part 2 (Step 14),
+// Already built for you. Nothing uses it until Part 2 (Step 15),
 // when the bottom nav gets a fourth tab.
 class PageProfile extends StatefulWidget {
   const PageProfile({super.key});
